@@ -20,8 +20,9 @@ function TopBar() {
             <h1>Arpit Agutale</h1>
             <nav style={navStyle}>
                 <a href="#about" style={{ color: "#fff", textDecoration: "none" }}>About</a>
-                <a href="#blogs" style={{ color: "#fff", textDecoration: "none" }}>Blogs</a>
-                <a href="#projects" style={{ color: "#fff", textDecoration: "none" }}>Projects</a>
+                <a href="#Experience" style={{ color: "#fff", textDecoration: "none" }}>#Experience</a>
+                <a href="#Projects" style={{ color: "#fff", textDecoration: "none" }}>Projects</a>
+                <a href="#Education" style={{ color: "#fff", textDecoration: "none" }}>Education</a>
             </nav>
         </header>
     );
